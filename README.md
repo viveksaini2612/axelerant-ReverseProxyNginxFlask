@@ -7,7 +7,7 @@ To get started, you'll need an [AWS account](https://portal.aws.amazon.com/billi
 1. The source code to accompany this guide can be found in this repository. To get started, clone the GitHub respository locally.
 
    ```bash
-   git clone https://github.com/awsgeek/lightsail-containers-nginx.git
+   git clone https://github.com/viveksaini2612/axelerant-ReverseProxyNginxFlask
    ```
 
 2. Change to the project directory
