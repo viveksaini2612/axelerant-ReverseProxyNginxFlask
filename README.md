@@ -279,4 +279,4 @@ aws lightsail delete-container-service --service-name sample-service
 ```
 The ```delete-container-service``` removes the container service, any associated container deployments, and container images.
 
-## Thankyou AWS for refernce - Vivek Saini 
+## Thankyou AWS for reference - Vivek Saini 
